@@ -1,4 +1,5 @@
 # SaaS Funnel Analysis
+End-to-end SaaS funnel analysis using SQL and Python.
 
 ## Executive Summary  
 This project analyzes user behavior across a SaaS conversion funnel to identify where users drop off and how to improve conversion.  
@@ -25,6 +26,14 @@ The key questions are:
 
 This project uses a synthetic dataset designed to simulate realistic SaaS user behavior.  
 The analysis focuses on methodology and decision-making rather than real production data.
+
+---
+
+## How to Use This Project  
+
+1. Start with `notebooks/02_findings_and_recs.ipynb` for the final insights and business recommendations  
+2. Refer to `notebooks/01_analysis.ipynb` for the full data cleaning and exploratory analysis workflow  
+3. Charts used in this project are available in the `graphs/` folder  
 
 ---
 
@@ -58,7 +67,15 @@ The analysis focuses on methodology and decision-making rather than real product
 - Funnel analysis  
 - Exploratory data analysis  
 - Data visualization  
-- Translating data into business insights  
+- Translating data into business insights
+
+---
+
+## Requirements
+pandas
+numpy
+matplotlib
+sqlite3
 
 ---
 
