@@ -56,6 +56,7 @@ The analysis focuses on methodology and decision-making rather than real product
 **Visualization**  
 - Built funnel charts and time-based trends  
 - Created segment comparison plots
+
 👉 View the dashboard here: 
 (https://public.tableau.com/views/SaaSFunnelAnalysis-ConversionBottlenecksGrowthOpportunities/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
