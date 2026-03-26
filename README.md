@@ -99,10 +99,10 @@ Users who complete onboarding are more likely to convert.
 ## Results Preview  
 
 ### Funnel Overview  
-![Funnel](charts/02_executive_funnel.png)
+![Funnel](graphs/02_executive_funnel.png)
 
 ### Device Performance  
-![Device](charts/02_device_gap.png)
+![Device](graphs/02_device_gap.png)
 
 ### Onboarding Impact  
-![Onboarding](charts/02_onboarding.png)
+![Onboarding](graphs/02_onboarding.png)
